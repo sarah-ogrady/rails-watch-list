@@ -43,8 +43,6 @@ GEM
       minitest (~> 5.1)
       tzinfo (~> 1.1)
     arel (9.0.0)
-    autoprefixer-rails (10.2.4.0)
-      execjs
     bindex (0.8.1)
     bootsnap (1.7.5)
       msgpack (~> 1.0)
@@ -194,7 +192,6 @@ PLATFORMS
   x86_64-darwin-20
 
 DEPENDENCIES
-  autoprefixer-rails
   bootsnap (>= 1.1.0)
   byebug
   coffee-rails (~> 4.2)
